@@ -198,6 +198,5 @@ Healthcare-Analytics-Dashboard
 
 📥 Download the full Healthcare Analytics Executive Report
 
-[![Executive Report Preview](Dashboard/Healthcare_Performance_at_a_Glance.png)](Report/Healthcare_Analytics_Executive_Report.pdf)
+![View PDF](Report/Healthcare_Analytics_Executive_Report.pdf)
 
-*Click the image to open the full report.*
