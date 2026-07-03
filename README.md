@@ -19,6 +19,9 @@ An executive-level, 5-page Power BI business intelligence application designed t
 *Payer market share analysis tracking enterprise billing allocations across insurance carriers.*
 ![Insurance_Provider_Total_Market_Share_Distribution](Dashboard/Insurance_Provider_Total_Market_Share_Distribution.png) 
 
+### 3. Patient Demographics & Admissions
+*Understanding Patient Characteristics and Admission Trends.*
+![Patient_Demographics_and_Admissions](Dashboard/Patient_Demographics_and_Admissions.png)
 ---
 
 ## 🏛️ Business Intelligence Architecture
