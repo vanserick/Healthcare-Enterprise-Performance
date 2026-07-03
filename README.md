@@ -13,7 +13,7 @@ An executive-level, 5-page Power BI business intelligence application designed t
 
 ### 1. Healthcare Performance at a Glance (Executive Panel)
 *High-level institutional baseline overview highlighting operational distributions and case loads.*
-![Healthcare Performance at a Glance](Dashboard/healthcare_performance_at_a_glance.png)
+![Healthcare_Performance_at_a_Glance](Dashboard/healthcare_performance_at_a_glance.png)
 
 ### 2. Financial & Revenue Performance Analytics
 *Payer market share analysis tracking enterprise billing allocations across insurance carriers.*
