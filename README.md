@@ -198,7 +198,7 @@ Healthcare-Analytics-Dashboard
 
 📥 Download the full Healthcare Analytics Executive Report
 
-[Healthcare_Analytics_Executive_Report.pdf](Report/Healthcare_Analytics_Executive_Report.pdf)
+[Healthcare Analytics Executive Report](Report/Healthcare_Analytics_Executive_Report.pdf)
 
 
 ├── medical_conditions_analysis.png    # Clinical volume distribution visual
