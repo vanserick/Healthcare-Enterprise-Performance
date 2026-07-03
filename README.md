@@ -197,4 +197,5 @@ Healthcare-Analytics-Dashboard
 
 ## 📄 Download Executive Report
 
-[View Full Report](Report/business_recommendations.pdf)
+[View Full Report](Report/Healthcare_Analytics_Executive_Report.pdf)
+
