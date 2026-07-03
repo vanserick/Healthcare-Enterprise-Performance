@@ -197,8 +197,6 @@ Healthcare-Analytics-Dashboard
 
 ## 📄 Download Executive Report
 
-- 📑 **Healthcare Analytics Executive Report**
-  https://github.com/vanserick/Healthcare-Enterprise-Performance/blob/main/Report/Healthcare_Analytics_Executive_Report.pdf
+- [Healthcare Analytics Executive Report](https://github.com/vanserick/Healthcare-Enterprise-Performance/blob/main/Report/Healthcare_Analytics_Executive_Report.pdf)
 
-- 📑 **Business Recommendations**
-  https://github.com/vanserick/Healthcare-Enterprise-Performance/blob/main/Report/business_recommendations.pdf
+- [Business Recommendations](https://github.com/vanserick/Healthcare-Enterprise-Performance/blob/main/Report/business_recommendations.pdf)
