@@ -75,6 +75,7 @@ Hospital Analysis
 Medical Analysis
 [06_medical_analysis.sql](Sql/06_medical_analysis.sql)
 ↓
+
 Financial Analysis
 [07_financial_analysis.sql](Sql/07_financial_analysis.sql)
 ↓
