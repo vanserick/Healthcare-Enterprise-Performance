@@ -83,6 +83,14 @@ Financial Analysis
 Time Analysis
 [08_time_analysis.sql](Sql/08_time_analysis.sql)
 
+
+## 📄 Download Executive Report
+
+[View Full Business Report](report/Healthcare_Analytics_Executive_Report.pdf)
+
+[View Full Business Report](report/business_recommendations.pdf)
+
+
 ---
 ## 📊 Dashboard Overview
 
@@ -195,7 +203,6 @@ Healthcare-Analytics-Dashboard
 
 
 
-## 📄 Download Executive Report
 
 
 
