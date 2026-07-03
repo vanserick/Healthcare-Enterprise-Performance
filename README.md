@@ -194,9 +194,7 @@ Healthcare-Analytics-Dashboard
 • Business Recommendations
 
 
+
 ## 📄 Executive Report
 
-📥 Download the full Healthcare Analytics Executive Report
-
-![View PDF](Report/Healthcare_Analytics_Executive_Report.pdf)
-
+[📥 View the Healthcare Analytics Executive Report](Report/Healthcare_Analytics_Executive_Report.pdf)
