@@ -1,13 +1,23 @@
-# Healthcare-Enterprise-Performance
+# Healthcare Analytics Dashboard: Patient, Financial & Operational Performance Analysis
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-End-to-end Healthcare Analytics project using SQL and Power BI to analyze patient demographics, hospital operations, financial performance, and operational efficiency through interactive dashboards and executive business recommendations.
+## 📌 Project Overview
 
-An executive-level, 5-page Power BI business intelligence application designed to model, track, and optimize clinical, operational, and financial performance pipelines across a distributed hospital network. This project processes raw medical admission logs to isolate institutional bottlenecks, calculate structural bed utilization thresholds, and map revenue allocations.
+This end-to-end Healthcare Analytics project analyzes patient demographics, hospital operations, financial performance, and operational efficiency using SQL, Python, and Power BI.
+
+The solution includes data cleaning, feature engineering, KPI development, interactive dashboards, and executive business recommendations designed to support data-driven decision-making across a hospital network.
+
+
+## 🎯 Business Problem
+
+Hospital administrators need reliable insights into patient admissions, financial performance, and operational efficiency to optimize resource allocation and improve patient outcomes.
+
+This project demonstrates how SQL, Python, and Power BI can transform raw healthcare data into actionable business intelligence.
+
 
 ## 📊 Interactive Dashboard Live Previews
 
@@ -20,11 +30,60 @@ An executive-level, 5-page Power BI business intelligence application designed t
 ![Insurance_Provider_Total_Market_Share_Distribution](Dashboard/Insurance_Provider_Total_Market_Share_Distribution.png) 
 
 ### 3. Patient Demographics & Admissions
-*Understanding Patient Characteristics and Admission Trends.*
+*Understanding Patient Characteristics and Admission Trends*
 ![Patient_Demographics_and_Admissions](Dashboard/Patient_Demographics_and_Admissions.png)
+
+### 4. Hospital & Physician Performance
+*Evaluating Hospital Operations and Physician Workload*
+![Hospital_and_Physician_Performance](Dashboard/Hospital_and_Physician_Performance.png)
+
+### 5. Medical Conditions Analysis
+*Disease Distribution and Clinical Insights*
+![Medical_Conditions_Analysis](Dashboard/Medical_Conditions_Analysis.png)
+
+### 6. Financial Performance
+![Financial_Performance](Dashboard/Financial_Performance.png)
+
 ---
 
-## 🏛️ Business Intelligence Architecture
+## 🔄 Project Workflow
+
+Raw Healthcare Dataset
+[healthcare_dataset.csv](Data/healthcare_dataset.csv)
+↓
+
+SQL Data Cleaning
+[01_data_cleaning.sql](Sql/01_data_cleaning.sql)
+↓
+
+Feature Engineering
+[02_feature_engineering.sql](Sql/02_feature_engineering.sql)
+↓
+
+KPI Development
+[03_kpi_queries.sql](Sql/03_kpi_queries.sql)
+↓
+
+Patient Analysis
+[04_patient_analysis.sql](Sql/04_patient_analysis.sql)
+↓
+
+Hospital Analysis
+[05_hospital_analysis.sql](Sql/05_hospital_analysis.sql)
+↓
+
+Medical Analysis
+[06_medical_analysis.sql](Sql/06_medical_analysis.sql)
+↓
+Financial Analysis
+[07_financial_analysis.sql](Sql/07_financial_analysis.sql)
+↓
+
+Time Analysis
+[08_time_analysis.sql](Sql/08_time_analysis.sql)
+
+---
+## 📊 Dashboard Overview
 
 The dashboard is organized into 5 specific cross-functional reporting layouts:
 
@@ -74,5 +133,71 @@ The dashboard is organized into 5 specific cross-functional reporting layouts:
 ├── healthcare_performance_at_a_glance.png  # Executive grid screenshot
 ├── insurance_revenue_capture.png      # Revenue metrics screenshot
 ├── operational_performance.png        # Inflow and bed stay visuals
+
+
+Healthcare-Analytics-Dashboard
+
+│
+
+├── data
+
+│
+
+├── SQL
+
+│   ├── 01_data_cleaning.sql
+
+│   ├── 02_feature_engineering.sql
+
+│   ├── ...
+
+│
+
+├── Dashboard
+
+│
+
+├── Report
+
+│
+
+└── README.md
+
+
+## 💼 Skills Demonstrated
+
+• SQL
+
+• Python
+
+• Data Cleaning
+
+• Feature Engineering
+
+• Exploratory Data Analysis
+
+• KPI Development
+
+• Power BI
+
+• DAX
+
+• Business Intelligence
+
+• Dashboard Design
+
+• Data Visualization
+
+• Executive Reporting
+
+• Business Recommendations
+
+
+## 📄 Executive Report
+
+📥 Download the full Healthcare Analytics Executive Report
+
+[Healthcare_Analytics_Executive_Report.pdf](Report/Healthcare_Analytics_Executive_Report.pdf)
+
 ├── medical_conditions_analysis.png    # Clinical volume distribution visual
 └── README.md                          # Repository documentation
