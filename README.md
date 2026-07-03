@@ -198,8 +198,6 @@ Healthcare-Analytics-Dashboard
 
 📥 Download the full Healthcare Analytics Executive Report
 
-[Healthcare Analytics Executive Report](Report/Healthcare_Analytics_Executive_Report.pdf)
+[![Executive Report Preview](Dashboard/Healthcare_Performance_at_a_Glance.png)](Report/Healthcare_Analytics_Executive_Report.pdf)
 
-
-├── medical_conditions_analysis.png    # Clinical volume distribution visual
-└── README.md                          # Repository documentation
+*Click the image to open the full report.*
