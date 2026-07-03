@@ -200,5 +200,6 @@ Healthcare-Analytics-Dashboard
 
 [Healthcare_Analytics_Executive_Report.pdf](Report/Healthcare_Analytics_Executive_Report.pdf)
 
+
 ├── medical_conditions_analysis.png    # Clinical volume distribution visual
 └── README.md                          # Repository documentation
