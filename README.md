@@ -17,7 +17,7 @@ An executive-level, 5-page Power BI business intelligence application designed t
 
 ### 2. Financial & Revenue Performance Analytics
 *Payer market share analysis tracking enterprise billing allocations across insurance carriers.*
-![Insurance Revenue Capture](insurance_revenue_capture.png)
+![Insurance_Provider_Total_Market_Share_Distribution](Dashboard/Insurance_Provider_Total_Market_Share_Distribution.png) 
 
 ---
 
